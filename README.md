@@ -3,7 +3,7 @@
 <!--Texto de boas-vindas e apresentação-->
 <div align="center">
         
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=25&pause=1000&color=6A0DAD&width=400&lines=Sejam+Bem-Vindos(as)!+%E2%9C%A8" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=25&pause=1000&color=6A0DAD&width=310&lines=Sejam+Bem-Vindos(as)!+%E2%9C%A8" alt="Typing SVG" /></a>
 
 </div>
 
