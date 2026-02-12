@@ -7,7 +7,7 @@
 
 </div>
 
-<h1 align="center">Olá pessoal, me chamo Jenifer e sou Desenvolvedora Web👩‍💻.</h1>
+<h1 align="center">Olá pessoal, me chamo Jenifer e sou Desenvolvedora Web👩‍💻</h1>
 
 <br>
 
