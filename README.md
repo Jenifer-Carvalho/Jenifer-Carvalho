@@ -20,7 +20,7 @@
 </div>
 
 <!-- Session Hard Skills -->
-<h2>Hard Skills</h2>
+<h2>🖥️ Hard Skills</h2>
 
 <div>
 
@@ -34,7 +34,7 @@
 </div>
 
 <!-- Social Media -->
-<h2>Redes Sociais</h2>
+<h2>🌐 Redes Sociais</h2>
 
 <div align="center" style="display: inline_block">
         
