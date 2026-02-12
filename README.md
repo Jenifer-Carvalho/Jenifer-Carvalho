@@ -12,14 +12,24 @@
 <!--states-->
 <div align="center">
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jenifer-Carvalho&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jenifer-Carvalho&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jenifer-Carvalho&theme=tokyonight&utcOffset=8) | 
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jenifer-Carvalho&theme=tokyonight) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jenifer-Carvalho&theme=tokyonight&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats) |  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jenifer-Carvalho&theme=tokyonight) | 
 | :-: | :-: | :-: |
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jenifer-Carvalho&theme=tokyonight) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jenifer-Carvalho&theme=tokyonight&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats) | 
-| :-: | :-: |
 
 </div>
 
+<!-- Session Hard Skills -->
+<h2>Hard Skills</h2>
+
+<div>
+
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />         
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> 
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />                 
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+        
+</div>
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=6A0DADFF&reversal=false&textBg=false&section=footer"/>
